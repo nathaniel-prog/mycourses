@@ -23,10 +23,10 @@ for item in result_w_def:
 
 letters = ['a', 'b','c','d']
 
-names=['Corey', 'Nicole']
+names=['Corey', 'stephane' , 'nathy']
 
 
-selector=[True, False, False, True]
+selector=[True, False, False, True , False]
 
 
 select_result= itertools.compress(letters,selector)
